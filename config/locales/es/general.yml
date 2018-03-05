@@ -740,6 +740,7 @@ es:
       no_private_messages: "Este usuario no acepta mensajes privados."
       private_activity: Este usuario ha decidido mantener en privado su lista de actividades.
       send_private_message: "Enviar un mensaje privado"
+      delete_alert: "¿Estás seguro de que deseas borrar tu proyecto de gasto? Esta acción no se puede deshacer"
     proposals:
       send_notification: "Enviar notificación"
       retire: "Retirar"
@@ -820,6 +821,7 @@ es:
     help: "Puedes introducir cualquier enlace de %{models} que esté dentro de %{org}."
     submit: "Añadir"
     error: "Enlace no válido. Recuerda que debe empezar por %{url}."
+    error_itself: "Enlace no válido. No se puede relacionar un contenido consigo mismo."
     success: "Has añadido un nuevo contenido relacionado"
     is_related: "¿Es contenido relacionado?"
     score_positive: "Sí"

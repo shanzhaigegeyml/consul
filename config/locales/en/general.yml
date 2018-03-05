@@ -741,6 +741,7 @@ en:
       no_private_messages: "This user doesn't accept private messages."
       private_activity: This user decided to keep the activity list private.
       send_private_message: "Send private message"
+      delete_alert: "Are you sure you want to delete your investment project? This action can't be undone"
     proposals:
       send_notification: "Send notification"
       retire: "Retire"
@@ -821,6 +822,7 @@ en:
     help: "You can add links of %{models} inside of %{org}."
     submit: "Add"
     error: "Link not valid. Remember to start with %{url}."
+    error_itself: "Link not valid. You cannot relate a content to itself."
     success: "You added a new related content"
     is_related: "¿Is it related content?"
     score_positive: "Yes"
